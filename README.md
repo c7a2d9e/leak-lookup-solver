@@ -19,6 +19,8 @@ When given a captcha, the solver:
    - Compares each window to all known character patterns
    - Calculates a similarity score for each potential match
    - Selects the character with the highest score above a threshold
+### Demo
+![demo](data/demo.gif)
 
 # Legal Disclaimer
 This repository is intended for educational and research purposes only. The code and content provided here are not affiliated with, endorsed by, or associated with [leak-lookup.com](https://leak-lookup.com) or any related entities.
