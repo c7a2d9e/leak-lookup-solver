@@ -19,8 +19,8 @@ When given a captcha, the solver:
    - Compares each window to all known character patterns
    - Calculates a similarity score for each potential match
    - Selects the character with the highest score above a threshold
-   
+
 # Legal Disclaimer
 This repository is intended for educational and research purposes only. The code and content provided here are not affiliated with, endorsed by, or associated with [leak-lookup.com](https://leak-lookup.com) or any related entities.
 
-If you are a representative of hCaptcha and believe this repository violates your rights or terms of service, please contact me at [**legal@sys32.dev**](mailto://legal@sys32.dev) to request its removal. I will respond promptly to resolve the issue.
+If you are a representative of leak-lookup.com and believe this repository violates your rights or terms of service, please contact me at [**legal@sys32.dev**](mailto://legal@sys32.dev) to request its removal. I will respond promptly to resolve the issue.
